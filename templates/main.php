@@ -3,7 +3,7 @@
 \OCP\Util::addStyle('testapp', 'style');
 \OCP\Util::addScript('testapp', 'pizza.min');
 \OCP\Util::addStyle('testapp', 'pizza');
-\OCP\Util::addStyle('testapp', 'dependencies');
+\OCP\Util::addScript('testapp', 'dependencies');
 ?>
 
 <div id="app">
