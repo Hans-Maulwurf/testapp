@@ -1,8 +1,8 @@
 <?php
 \OCP\Util::addScript('testapp', 'script');
 \OCP\Util::addStyle('testapp', 'style');
-\OCP\Util::addScript('driveprojectwizard', 'pizza.min');
-\OCP\Util::addStyle('driveprojectwizard', 'pizza');
+\OCP\Util::addScript('testapp', 'pizza.min');
+\OCP\Util::addStyle('testapp', 'pizza');
 ?>
 
 <div id="app">
